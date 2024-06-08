@@ -2,6 +2,7 @@
 
 <<task
 this is for custom_dirctory for customize data
+Please enter the 2 argument while running the scripts
 task
 
 echo "Enter the name of root dir"
